@@ -1,2 +1,2 @@
-# ice-sheet-flow
-B8 project supervised by Andrew Wells.
+# B8 - Modelling Viscous Ice Sheet Flow.
+Supervised by Andrew Wells.
